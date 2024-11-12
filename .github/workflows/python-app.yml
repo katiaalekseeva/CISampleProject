@@ -30,7 +30,5 @@ jobs:
     -name: Run tests
      run: test_main.py # Run tests in test_main.py 
 
-    - name: Run tests
-      run: |
-        pytest
+  
         
